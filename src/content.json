@@ -1,11 +1,12 @@
 {
   "comingSoon": {
+    "title": "BAMEinTech",
     "logo": "http://placekitten.com/200/200",
-    "content": "We're currently being built. In the meantime get in touch with us using one of these options:",
+    "content": "We're currently being built. In the meantime sign up for our newsletter for updates:",
     "footer": {
       "email": "mailto:info@bameintech.com",
-      "instagram": "https://instagram.com/bameintech",
-      "twitter": "https://twitter.com/bameintech"
+      "twitter": "https://twitter.com/bameintech",
+      "instagram": "https://instagram.com/bameintech"
     }
   }
 }
