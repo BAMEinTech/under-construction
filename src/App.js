@@ -5,7 +5,6 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import createBreakpoints from "@material-ui/core/styles/createBreakpoints";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import "./App.css";
 import { comingSoon } from "./content.json";
 import Newsletter from "./Newsletter";
 
