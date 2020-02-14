@@ -65,7 +65,7 @@ class Newsletter extends Component {
         </form>
 
         <Typography variant="body1" gutterBottom className="s2-txt3 p-t-18">
-          And don&rsquo;t worry, we hate spam too! You can unsubcribe at
+          And don't worry, we hate spam too! You can unsubcribe at
           anytime.
         </Typography>
       </MuiThemeProvider>
